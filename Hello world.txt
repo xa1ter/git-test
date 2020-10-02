@@ -1,1 +1,1 @@
-ptint("Hello world");
+ptint("Hello world!");
